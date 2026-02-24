@@ -1,0 +1,14 @@
+CTF: Paper Scripts - 300
+Target: AB8e5416e3.pdf
+
+METHODOLOGY
+-----------
+• Opened PDF in binary mode
+• Located JavaScript action object
+• Decoded octal escapes
+• Decoded hex escapes to ASCII
+• Reconstructed flag string
+
+FLAG
+----
+• HQX{2e05d5c63660dfc4c40b0e8f266cfb0c}
